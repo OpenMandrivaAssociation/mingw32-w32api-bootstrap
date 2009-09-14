@@ -7,7 +7,7 @@
 
 Name: mingw32-w32api-bootstrap
 Version: 1
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: MinGW Windows bootstrap (binary package)
 
 Group: Development/Other
