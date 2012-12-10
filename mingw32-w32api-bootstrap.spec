@@ -54,3 +54,19 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root)
 %dir %{_prefix}/i586-pc-mingw32
 %{_prefix}/i586-pc-mingw32/sys-root
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 1-3mdv2011.0
++ Revision: 620362
+- the mass rebuild of 2010.0 packages
+
+* Mon Sep 14 2009 Thierry Vignaud <tv@mandriva.org> 1-2mdv2010.0
++ Revision: 439982
+- rebuild
+
+* Wed Feb 04 2009 Jérôme Soyer <saispo@mandriva.org> 1-1mdv2009.1
++ Revision: 337630
+- import mingw32-w32api-bootstrap
+
+
