@@ -15,6 +15,7 @@ License: Public Domain
 URL: http://www.mingw.org/
 
 Source0: http://dl.sourceforge.net/sourceforge/mingw/w32api-%{w32api_version}.tar.gz
+Source1: mingw32-w32api-bootstrap.rpmlintrc
 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 

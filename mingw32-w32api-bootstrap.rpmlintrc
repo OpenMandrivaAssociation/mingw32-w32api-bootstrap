@@ -1,0 +1,2 @@
+addFilter("E: devel-file-in-non-devel-package")
+addFilter("E: arch-independent-package-contains-binary-or-object")
